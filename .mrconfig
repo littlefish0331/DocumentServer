@@ -36,7 +36,7 @@ checkout = git clone git@github.com:ONLYOFFICE/sdkjs-plugins.git
 checkout = git clone git@github.com:ONLYOFFICE/server.git
 
 [web-apps]
-checkout = git clone git@github.com:ONLYOFFICE/web-apps.git
+checkout = git clone git@github.com:littlefish0331/web-apps.git
 
 [web-apps-pro]
 checkout = git clone git@github.com:ONLYOFFICE/web-apps-pro.git
