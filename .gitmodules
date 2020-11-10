@@ -17,3 +17,6 @@
 	path = core-fonts
 	url = https://github.com/ONLYOFFICE/core-fonts.git
 
+[submodule "web-apps"]
+	path = web-apps
+	url = https://github.com/littlefish0331/web-apps.git
